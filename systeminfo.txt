@@ -1,0 +1,6 @@
+Public IP Address: xxx.xxx.xx.xx
+Processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: LAPTOP-PVKHADJ7
+Private IP Address: 192.168.236.1
